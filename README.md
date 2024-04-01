@@ -1,2 +1,2 @@
 # discord-token-generator
-made by voke .
+made by voke 
